@@ -3,7 +3,7 @@
 import requests
 import json
 
-dictionary_url = "https://raw.githubusercontent.com/cqni/Morse-Translator/main/morse-dictionary.json"
+dictionary_url = "https://raw.githubusercontent.com/cqni/Morse-Code/main/morse-dictionary.json"
 
 def get_dictionary(url):
     try:
